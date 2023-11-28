@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN `accepted` varchar(255) DEFAULT 0;
