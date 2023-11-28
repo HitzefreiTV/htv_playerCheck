@@ -45,7 +45,7 @@ Contributing
 We welcome contributions to improve this script. If you have any suggestions or improvements, please submit a pull request.
 
 License
-This script is open-source and released under the MIT License.
+This script is open-source and released under the GNU License.
 
 Credits
 Thanks to the FiveM and ESX communities for their continuous support and contributions.
